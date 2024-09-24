@@ -72,7 +72,7 @@ git clone https://github.com/your-username/TicketWave.git
     ```
 3. Run the Spring Boot application.
 
-## Step 3: Frontend Setup
+### Step 3: Frontend Setup
 1. Navigate to the frontend directory:
     ```bash
     cd frontend
@@ -110,4 +110,3 @@ For any questions or contributions, feel free to reach out:
 
 - **Email**: kushalmareedu@gmail.com
 - **LinkedIn**: [Kushal-Maridu](https://linkedin.com/in/Kushal-Maridu)
-
