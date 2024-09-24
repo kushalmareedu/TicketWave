@@ -61,3 +61,53 @@ TicketWave was developed using a **multi-layered architecture** to ensure modula
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/your-username/TicketWave.git
+
+### Step 2: Backend Setup
+1. Open the backend project in Spring Tool Suite (STS) or Eclipse.
+2. Configure the database connection in the `application.properties` file:
+    ```properties
+    spring.datasource.url=jdbc:mysql://localhost:3306/ticketwave
+    spring.datasource.username=root
+    spring.datasource.password=yourpassword
+    ```
+3. Run the Spring Boot application.
+
+## Step 3: Frontend Setup
+1. Navigate to the frontend directory:
+    ```bash
+    cd frontend
+    ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Update the API base URL in the `environment.ts` file:
+    ```typescript
+    export const environment = {
+      production: false,
+      apiUrl: 'http://localhost:8080/api'
+    };
+    ```
+4. Run the Angular application:
+    ```bash
+    ng serve
+    ```
+
+## Step 4: Access the Application
+- Open your browser and navigate to `http://localhost:4200` to access the TicketWave interface.
+- You can change the port number if needed by modifying the configuration.
+
+## Future Enhancements
+- **Mobile App Integration**: Develop native mobile apps for iOS and Android for increased accessibility.
+- **Social Media Integration**: Allow users to log in using their social media accounts.
+- **Advanced Analytics**: Provide more in-depth analytics for administrators regarding user behavior and movie popularity.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or contributions, feel free to reach out:
+
+- **Email**: kushalmareedu@gmail.com
+- **LinkedIn**: [Kushal-Maridu](https://linkedin.com/in/Kushal-Maridu)
+
