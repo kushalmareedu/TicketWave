@@ -1,4 +1,3 @@
-readme_content = """
 # TicketWave - Cinema E-Booking System
 
 TicketWave is a modern web-based application designed to streamline the movie ticket booking experience for both administrators and users. With a focus on usability, security, and real-time updates, TicketWave allows users to browse a wide range of movies, book tickets seamlessly, and manage their profiles efficiently.
