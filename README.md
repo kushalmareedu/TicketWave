@@ -1,5 +1,3 @@
-# Writing the provided README content to a markdown (.md) file
-
 readme_content = """
 # TicketWave - Cinema E-Booking System
 
