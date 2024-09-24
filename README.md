@@ -60,7 +60,8 @@ TicketWave was developed using a **multi-layered architecture** to ensure modula
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/TicketWave.git
+git clone https://github.com/kushalmareedu/TicketWave.git
+```
 
 ### Step 2: Backend Setup
 1. Open the backend project in Spring Tool Suite (STS) or Eclipse.
