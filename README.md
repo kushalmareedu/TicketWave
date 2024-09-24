@@ -110,4 +110,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or contributions, feel free to reach out:
 
 - **Email**: kushalmareedu@gmail.com
-- **LinkedIn**: [Kushal-Maridu](https://linkedin.com/in/Kushal-Maridu)
+- **LinkedIn**: [Kushal-Maridu](https://www.linkedin.com/in/kushal-kumar-raja-maridu-4a760317b/)
